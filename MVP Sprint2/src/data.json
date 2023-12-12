@@ -1,0 +1,50 @@
+{
+  "destinations": [
+   
+    {
+      "name": "Impacto",
+      "description": "O impacto do lixo que produzimos que vai para os oceanos, traz consequencias muito graves. Produzimos mais de 220 milhões de toneladas de lixo por ano, e 8 milhões vão para os oceanos. O lixo que vai para os oceanos, mata mais de 100 mil animais marinhos por ano, e 1 milhão de aves marinhas. O lixo que vai para os oceanos, mata mais de 1,5 milhões de mamiferos marinhos por ano e aves por causa da ingestão de plástico.",  
+      "impacts": "1,5 milhões de espécies marinhas morrem a cada ano"
+      
+    },
+    {
+      "name": "Quem somos",
+      "description": "Há alguns anos, um grupo de pesquisadores e ativistas ambientais se uniu em resposta à crescente preocupação com a saúde dos oceanos. Em 2023,  a Source 2Sea foi criada e tornou-se uma instituição oficial de preservação dos oceanos,  com sua equipe de pesquisadores e defensores apaixonados. Trabalhamos para conscientizar o público sobre os desafios que os oceanos enfrentam, desde a poluição plástica até a acidificação  e  perda de biodiversidade. Realizamos campanhas de conscientização, palestras educacionais e mutirões  de limpeza de praias.",
+      "impacts": "Mais de 10 toneladas de lixo retiradas das praias"
+     
+    },
+    {
+      "name": "Parceiros",
+      "description": "Nossos parceiros são voluntários, associações de catadores, de reciclagem, de artesões, além do poder público e empresas privadas que financiam nossas ações. ",
+      "impacts": "Mais de 2 mil novos produtos feitos com lixo"
+      
+    }
+  ],
+  
+  "technology": [
+    {
+      "name": "Identifique o problema",
+      "images": {
+        "portrait": "../assets/technology/image-pollution-portrait.jpg",
+        "landscape": "../assets/technology/image-pollution-landscape.jpg"
+      },
+      "description": "Você pode nos ajudar identificando descartes indevidos de lixo nas nossas praias. Para isso, faça a sua denúcia no botão Denuncie, na página inicial.  Preencha o formulário com as informações solicitadas."
+    },
+    {
+      "name": "Nos ajude a resolver", 
+      "images": {
+        "portrait": "../assets/technology/image-volunteer-portrait.jpg",
+        "landscape": "../assets/technology/image-volunteer-landscape.jpg"
+      },
+      "description": " Assim que recebemos a denúnica, analisamos o caso e acionamos nossos voluntários ou as autoridades para que a questão seja resolvida com a maior brevidade possível, evitando maiores danos aos nossos oceanos."
+    },
+    {
+      "name": "Lixo vira luxo",
+      "images": {
+        "portrait": "../assets/technology/image-space-capsule-portrait.jpg",
+        "landscape": "../assets/technology/image-space-capsule-landscape.jpg"
+      },
+      "description": "Todo lixo que coletamos é separado e encaminhado para associações de catadores, de reciclagem e de artesões. Assim, além de ajudar a preservar os oceanos, você também ajuda a gerar renda para muitas famílias.  "
+    }
+  ]
+}
